@@ -1,2 +1,2 @@
 [bin](/bin/  "this link to bin")
-[main](../ "top level")
+[src](/src/  "this link to src")

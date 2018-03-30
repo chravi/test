@@ -1,2 +1,2 @@
 [doc](/doc/  "this link to doc")
-[main](../ "top level")
+[src](/src/  "this link to src")
